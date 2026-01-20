@@ -1,0 +1,17 @@
+{
+  "short_name": "TAXA 4x35",
+  "name": "TAXA 4x35 Digital Voucher",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/708/708916.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#0b0f14",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#0a7a3a"
+}
